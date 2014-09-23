@@ -1,5 +1,3 @@
-package com.example.imagecircle;
-
 /**
  * Author: Logan Elliott
  * Program: Image Circle Calculator and diagram
@@ -11,6 +9,8 @@ package com.example.imagecircle;
  *  5" = 127mm
  **/
 
+//double point class 
+//used for film height and width as doubles
 public class DoublePoint {
 	private double x;
 	private double y;
