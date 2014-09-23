@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Image Circle</string>
+    <string name="action_settings">Settings</string>
+    <string name="ImageCirclePrompt">Enter Image Circle(mm)</string>
+    <string name="rise">Rise</string>
+    <string name="shift">Shift</string>
+
+</resources>
